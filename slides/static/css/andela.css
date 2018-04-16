@@ -1,0 +1,43 @@
+.logo a {
+  background: url(../images/andela-logo-landscape-blue-400px.png) no-repeat 0 0;
+  width: 150px;
+}
+
+.text-primary {
+  color: #44d; }
+
+.text-secondary {
+  color: #67d; }
+
+.text-light {
+  color: #f7f9fb; }
+
+.text-black {
+  color: #111; }
+
+.text-black-blue {
+  color: #123; }
+
+.text-blue {
+  color: #346; }
+
+.text-brown {
+  color: #f9f8f2; }
+
+.text-gray {
+  color: #d5d9e2; }
+
+.text-green {
+  color: #077; }
+
+.text-purple {
+  color: #62b; }
+
+.text-red {
+  color: #c23; }
+
+.text-white {
+  color: #fff; }
+
+.text-facebook {
+  color: #3b5998; }
